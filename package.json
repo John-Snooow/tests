@@ -1,0 +1,17 @@
+{
+  "name": "tests",
+  "version": "1.0.0",
+  "description": "criar um projeto básico focado em testes",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/server.ts"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/John-Snooow/tests.git"
+  },
+  "license": "ISC",
+  "dependencies": {
+    "tsx": "^4.19.1"
+  }
+}
