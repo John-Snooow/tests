@@ -4,7 +4,8 @@
   "description": "criar um projeto básico focado em testes",
   "main": "index.js",
   "scripts": {
-    "dev": "tsx watch src/server.ts"
+    "dev": "tsx watch src/server.ts",
+    "test": "jest"
   },
   "repository": {
     "type": "git",
